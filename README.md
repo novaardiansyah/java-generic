@@ -22,7 +22,7 @@ it may take longer to demonstrate the website the first time, please be patient 
 
 ### Status
 
-![stages](https://img.shields.io/badge/stages-development-informational)
+![stages](https://img.shields.io/badge/stages-production-informational)
 [![information](https://img.shields.io/badge/information-references-informational)](https://github.com/novaardiansyah/java-generic/blob/main/references.json)
 ![size](https://img.shields.io/github/repo-size/novaardiansyah/java-generic?label=size&color=informational)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/novaardiansyah/java-generic/blob/main/LICENSE)
